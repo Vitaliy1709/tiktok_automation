@@ -29,7 +29,7 @@
 ## 🛠️ Установка
 
 ```bash
-git clone https://github.com/your-username/tiktok-bot.git
+git clone https://github.com/your-username/tiktok_automation.git
 cd tiktok-bot
 python -m venv .venv
 source .venv/bin/activate  # или .venv\Scripts\activate на Windows
